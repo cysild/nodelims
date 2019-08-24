@@ -1,0 +1,88 @@
+{
+    "_id": {
+        "$oid": "5d5661f5e7179a084eef7426"
+    },
+    "user_id": "",
+    "transcation": "",
+    "sampleType": "DNA",
+    "Sample": {
+        "SampleType": "DNA",
+        "SampleName": "",
+        "Organism": "",
+        "Description ": "",
+        "IndexId": "",
+        "IndexTag": "",
+        "Row": "",
+        "Coloumn": ""
+    },
+    "DNA_Details": [
+        {
+            "id": "",
+            "SampleType": "DNA",
+            "SampleBuffer": "",
+            "QMethod": "",
+            "Quantity": "",
+            "Volume": "",
+            "260-280": "",
+            "260-230": "",
+            "audit": {
+                "created_at": "",
+                "updated_at": "",
+                "created_by": "",
+                "updated_by": ""
+            }
+        },
+        {
+            "id": "",
+            "SampleType": "DNA",
+            "SampleBuffer": "",
+            "QMethod": "",
+            "Quantity": "",
+            "Volume": "",
+            "260-280": "",
+            "260-230": "",
+            "audit": {
+                "created_at": "",
+                "updated_at": "",
+                "created_by": "",
+                "updated_by": ""
+            }
+        }
+    ],
+    "PooledLibraries_Details": [
+        {
+            "id": "",
+            "LibraryType": "",
+            "SampleType": "DNA",
+            "LibConfig": "",
+            "InsertSize": "",
+            "LibPlexity": "",
+            "Concentration": "",
+            "PoolVolume": "",
+            "RunType": "",
+            "audit": {
+                "created_at": "",
+                "updated_at": "",
+                "created_by": "",
+                "updated_by": ""
+            }
+        },
+        {
+            "id": "",
+            "LibraryType": "",
+            "SampleType": "DNA",
+            "LibConfig": "",
+            "InsertSize": "",
+            "LibPlexity": "",
+            "Concentration": "",
+            "PoolVolume": "",
+            "RunType": "",
+            "audit": {
+                "created_at": "",
+                "updated_at": "",
+                "created_by": "",
+                "updated_by": ""
+            }
+        }
+    ]
+}
